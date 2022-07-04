@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/drawable/corner_back.xml" value="0.1235" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/drawable/corner_black.xml" value="0.123" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/drawable/corner_blue.xml" value="0.123" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/drawable/corner_green.xml" value="0.123" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/drawable/corner_grey.xml" value="0.123" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/drawable/corner_lightgrey.xml" value="0.123" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/drawable/corner_purple.xml" value="0.123" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/drawable/corner_red.xml" value="0.123" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/drawable/corner_yellow.xml" value="0.123" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/layout/category_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/layout/custom_bottomsheet.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/layout/edit_dialog.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/layout/fragment_add_task.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/layout/fragment_to_do.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/layout/popup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/layout/task_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/bahod/AndroidStudioProjects/TodoAppMVC/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1235" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/drawable/circle.xml" value="0.3235" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/drawable/ic__delete.xml" value="0.3235" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/drawable/ic_alarm.xml" value="0.3235" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/drawable/ic_calendar.xml" value="0.3235" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/drawable/ic_icon.xml" value="0.1975" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/drawable/ic_more.xml" value="0.3235" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/drawable/ic_plus.xml" value="0.2465" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/drawable/ic_plus_white.xml" value="0.3235" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/layout/activity_main.xml" value="0.24225352112676057" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/layout/category_item.xml" value="0.33" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/layout/edit_dialog.xml" value="0.3175213675213675" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/layout/fdd.xml" value="0.30854700854700856" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/layout/fragment_add_task.xml" value="0.3175213675213675" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/layout/fragment_home.xml" value="0.2915082382762991" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/layout/fragment_to_do.xml" value="0.3175213675213675" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/layout/popup.xml" value="0.30854700854700856" />
+        <entry key="..\:/anp/Todoappmvc/app/src/main/res/layout/task_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
